@@ -1,0 +1,60 @@
+.bgimg{
+    background-image: url(https://www.w3schools.com/w3images/la.jpg);
+    background-position: center;
+    height: 650px;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    
+}
+
+
+.text{
+    width: 70%;
+    margin: 0 auto;
+}
+
+.text h1, h4 {
+    text-align: center;
+}
+
+.band-img{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    gap: 45px;
+    margin: 100px;
+}
+
+.bgdiv{
+  width: 100%;
+  
+}
+
+.tourdates{
+    justify-content: center;
+    text-align: center;
+    
+}
+.tourdates span {
+   
+}
+
+.destinations{
+    display: flex;
+    margin: 40px;
+    gap: 50px;
+    justify-content: center;
+    width: 90%;
+
+}
+
+.destination1, .destination2, .destination3{
+    border: 2px solid black;
+    
+}
+
+.destinations button{
+    background-color: black;
+    color: white;
+}
